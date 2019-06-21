@@ -1,4 +1,5 @@
 [![Build Status](https://api.travis-ci.org/streadway/amqp.svg)](http://travis-ci.org/streadway/amqp) [![GoDoc](https://godoc.org/github.com/streadway/amqp?status.svg)](http://godoc.org/github.com/streadway/amqp)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbriankhsieh%2Famqp.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbriankhsieh%2Famqp?ref=badge_shield)
 
 # Go RabbitMQ Client Library
 
@@ -91,3 +92,6 @@ Thanks to the [community of contributors](https://github.com/streadway/amqp/grap
 BSD 2 clause - see LICENSE for more details.
 
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbriankhsieh%2Famqp.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbriankhsieh%2Famqp?ref=badge_large)
